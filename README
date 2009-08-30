@@ -1,0 +1,11 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=2763
+
+This is the actual filetype plugin script for the falcon programming language.
+
+Syntax:  vimscript #2745 
+Indent:    vimscript #2752 
+Ftplugin: vimscript #2762 
+
+For the latest version check: 
+http://github.com/steveno/falconpl-vim
+
